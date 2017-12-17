@@ -1,0 +1,11 @@
+body {
+    background-color: #1B692D;
+}
+
+#start-game {
+    width: 503px;
+    height: 262px;
+    position: relative;
+    margin: 0 auto;
+    background-image: url("../Design/assets/StartGame.png");
+}
